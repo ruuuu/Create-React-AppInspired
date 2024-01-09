@@ -1,5 +1,5 @@
 https://create-react-app.dev/docs/getting-started шаблон проекта создали при помощи create-react-app.dev
-https://eslint.org/docs/latest/use/getting-started натроен Eslinter
+https://eslint.org/docs/latest/use/getting-started натроен Eslinter (есть  скрытый файл .eslintrc.js и .eslintignore)
 
 # Getting Started with Create React App
 
